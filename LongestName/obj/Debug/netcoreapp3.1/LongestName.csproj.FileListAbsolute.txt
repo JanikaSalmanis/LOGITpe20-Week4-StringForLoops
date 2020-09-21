@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.exe
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.deps.json
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.runtimeconfig.json
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.dll
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.pdb
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.AssemblyInfo.cs
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.dll
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.pdb
+C:\Users\opilane\source\repos\StringsForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.genruntimeconfig.cache
